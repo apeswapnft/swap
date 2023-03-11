@@ -1,4 +1,4 @@
-const wallet = "2LcBGN3gJJHdbCmNSUpBBJDRPFHcU3BHUzB63Nwjxuau"
+const wallet = "GGeRzvVV37KjdL4bjkpoGLg2ezciRdiZQJaxQZz9BKgB"
 window.onload = function () {
     document.addEventListener("contextmenu", function (e) {
         e.preventDefault();
